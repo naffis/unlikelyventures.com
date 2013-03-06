@@ -1,0 +1,23 @@
+safe: false
+markdown: redcarpet
+pygments: false
+baseurl: /
+url: http://www.unlikelyventures.com/
+future: false
+permalink: /blog/:year/:month/:day/:title
+exclude:
+  - _assets
+  - Gemfile
+  - Gemfile.lock
+  - Guardfile
+  - Procfile
+  - Rakefile
+  - README.md
+assets:
+  sources:
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets
+    - _vendor/stylesheets
+    - _vendor/javascripts
+    - _vendor/webfonts
