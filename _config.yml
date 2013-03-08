@@ -2,7 +2,7 @@ safe: false
 markdown: redcarpet
 pygments: false
 baseurl: /
-url: http://www.unlikelyventures.com/
+url: http://unlikelyventures.com/
 future: false
 permalink: /blog/:year/:month/:day/:title
 exclude:

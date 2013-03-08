@@ -1,6 +1,6 @@
 s3_id: XXX
 s3_secret: XXX
-s3_bucket: www.unlikelyventures.com
+s3_bucket: unlikelyventures.com
 gzip: true
 max_age:
   "images/*": 31536000
