@@ -1,0 +1,43 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 15:35:24 Dec 9, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:36:16 Dec 9, 2013.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+.container-wrap {
+  padding: 20px 0;
+}
+
+.team-bios {
+  text-align: center;
+}
+
+.team-bios p {
+  text-align: left;
+}
+
+
+.logo-wrap { background: #eee; }
+.team-bios { background: #00b7b7; color: white; }
+.footer { background: #c70436; color: white; }
+.footer a { color: #FAA; }
+
+@media (max-width: 767px) {
+  body { padding: 0; }
+  .container-wrap { padding: 10px 20px; }
+  
+  .portfolio img { float: left; width: 80px; height: 80px; margin-right: 15px; }
+  .portfolio .row > div { clear: left; padding: 20px 0; }
+  .portfolio .row p { margin-left: 100px; }
+  
+  .team-bios img { float: left; width: 80px; height: 80px; margin-right: 15px; }
+  .team-bios .row > div { clear: left; padding: 20px 0; }
+  .team-bios .row p { margin-left: 100px; }
+}

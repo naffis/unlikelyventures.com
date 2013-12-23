@@ -1,3 +1,16 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 8:46:16 Dec 8, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:36:19 Dec 9, 2013.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
 /*!
  *  Font Awesome 3.0.2
  *  the iconic font designed for use with Twitter Bootstrap
@@ -23,10 +36,10 @@
 
 @font-face{
   font-family:'FontAwesome';
-  src:url('../font/fontawesome-webfont.eot?v=3.0.1');
-  src:url('../font/fontawesome-webfont.eot?#iefix&v=3.0.1') format('embedded-opentype'),
-  url('../font/fontawesome-webfont.woff?v=3.0.1') format('woff'),
-  url('../font/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
+  src:url('/web/20131208084616/http://unlikelyventures.com/font/fontawesome-webfont.eot?v=3.0.1');
+  src:url('/web/20131208084616/http://unlikelyventures.com/font/fontawesome-webfont.eot') format('embedded-opentype'),
+  url('/web/20131208084616/http://unlikelyventures.com/font/fontawesome-webfont.woff?v=3.0.1') format('woff'),
+  url('/web/20131208084616/http://unlikelyventures.com/font/fontawesome-webfont.ttf?v=3.0.1') format('truetype');
   font-weight:normal;
   font-style:normal }
 
